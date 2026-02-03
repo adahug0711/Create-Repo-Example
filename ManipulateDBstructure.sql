@@ -110,7 +110,8 @@ INSERT INTO WISHLIST VALUES (105, 'GAME8', 3);
 ); 
 
 --Question 5
-CREATE TABLE userprofile (
+CREATE TABLE userprofile (
+
     userid      NUMBER(3),
     imagefile   VARCHAR2(250),
     description VARCHAR2(250),
